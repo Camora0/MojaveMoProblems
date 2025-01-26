@@ -1,3 +1,5 @@
+![alt text](https://github.com/Camora0/MojaveMoProblems/blob/main/imagetemp.png)
+
 # Mojave Mo' Problems - A Fallout: New Vegas Survival Overhaul
 
 *"She just needs to realize the only difference between savage and sophisticated is the proper seasoning."* - *Mortimer*
