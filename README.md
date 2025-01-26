@@ -4,7 +4,7 @@
 
 ## An Introduction
 
-Welcome to Fallout: New Vegas - Mojave Mo' Problems. Here to make sure you know that the Mojave and it's inhabitants are not your friend. There might be a few souls willing to tolerate you, But the sands and the monsters that lie waiting only have one purpose: to kill you.
+Welcome to Fallout: New Vegas - Mojave Mo' Problems. Here to make sure you know that the Mojave and it's inhabitants are not your friend. There might be a few souls willing to tolerate you, but the sands and the monsters that lie waiting only have one purpose: to kill you.
 
 *Kill them back.*
 
