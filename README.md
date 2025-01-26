@@ -39,7 +39,7 @@ if you lack any of these, we highly recommend [This short, easy to read almanac.
 - a ***LEGAL*** Copy of Fallout: New Vegas GOTY (Base Game + all DLC) from Steam, GOG, or EGS.
 - Fully updated, Public Release version of Win 10 (or higher), 64 bit
 - The latest drivers for your GPU ([NVIDIA](https://www.nvidia.com/en-us/drivers/) / [AMD](https://www.amd.com/en/support/download/drivers.html))
-- An archiving program such as [7z](https://7-zip.org/download.html) or [NanaZip](https://github.com/M2Team/NanaZip)
+- An archiving program such as [7z](https://7-zip.org/download.html) or [NanaZip](https://github.com/M2Team/NanaZip)\
   ***Latest VC++ Redistributables***
     1. [VC AIO](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) (run `install_all.bat` as admin)
     2. [2015-2022 x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
