@@ -14,7 +14,7 @@ The following goes over all steps of the installation process as of MMP PR.v1 (2
 
 #### Addendum
 
-*for the remainder of this guide, we will assume you have prior knowledge of:*
+*for the remainder of this guide, we will assume you have prior knowledge of:*\
 Windows file structure\
 Mod Organizer 2\
 Manual changes to files such as archives and text documents\
@@ -29,18 +29,21 @@ if you lack any of these, we highly recommend [This short, easy to read almanac.
 
 - CPU: Any Quad Core i5 (or AMD equivalent) made after 2018
 - GPU: NVIDIA 3060 / AMD 5500 XT
-- Drive: Around (INSTALL SIZE)gb free space
+- Drive: Around 60gb free space
   *Note: it is __absolutely imperative__ that MMP is installed on a Solid State Drive (SSD). Of course, you can install on an HDD, but we are not responsible for any issues related to installation and/or game performance and stability.*
 
 ### Requirements, Software
 
 - a ***LEGAL*** Copy of Fallout: New Vegas GOTY (Base Game + all DLC) from Steam, GOG, or EGS.
 - Fully updated, Public Release version of Win 10 (or higher), 64 bit
-- The latest drivers for your GPU
-- An archiving program such as 7z or NanaZip
-- Latest VC++ AIO Redists
-- Notepad++ (for text editing)
-- A Nexus mods account, preferrably premium for one click install and uncapped download speeds
+- The latest drivers for your GPU ([NVIDIA](https://www.nvidia.com/en-us/drivers/) / [AMD](https://www.amd.com/en/support/download/drivers.html))
+- An archiving program such as [7z](https://7-zip.org/download.html) or [NanaZip](https://github.com/M2Team/NanaZip)
+  ***Latest VC++ Redistributables***
+    1. [VC AIO](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) (run `install_all.bat` as admin)
+    2. [2015-2022 x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+    3. [2015-2022 x86](https://aka.ms/vs/17/release/vc_redist.x86.exe)
+- [Notepad++](https://www.nexusmods.com/) (for text editing)
+- A [Nexus mods](https://www.nexusmods.com/) account, preferrably premium for one click install and uncapped download speeds
 
 ### Prerequisites
 ***Disabling Base Address Randomization (BAR)***
