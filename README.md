@@ -12,7 +12,7 @@ Welcome to Fallout: New Vegas - Mojave Mo' Problems. Here to make sure you know 
 
 The philosophy around MMP is to transform New Vegas into the definitive hardcore survival experience. Including overhauls touching on combat, resource management, self-preservation, and more, Mojave Mo' Problems is guaranteed to make you scared of The Wasteland again.
 
-The following goes over all steps of the installation process as of MMP PR.v1 (25/01/25)
+The following goes over all steps of the installation process as of MMP Public Release 0.7 (25/01/25)
 
 #### Addendum
 
