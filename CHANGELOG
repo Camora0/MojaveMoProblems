@@ -1,3 +1,53 @@
+Mojave Mo' Problems 0.8 Changelog 30/01/2025
+
+Not Save Safe (Sorry! New Vegas is not stable enough to carry saves over with big changes)
+
+- Fixed a bug where some sentry bots would not fire when in combat.
+- Finally fixed the crash involving NVR and certain hardware. Turns out, it was the disabled bloom from the specialized Hi-rez Bloom ini.
+- Readjusted the Load Order as certain things were unintentionally being overwritten.
+- Undid the changes to perks from Sweet Six's Perk mod from last update, as their original implementation was an actually intended effect.
+- Implemented much of the texture mods included in SALVO. There's over a hundred mods, so I'm not listing them here, for brevity. New textures and meshes.
+- Emphasized NVR's performance impact on its' divider tab. While NVR's visuals are an nice addition to the list, their performance impact makes them completely optional.1
+- Regenerated LODs
+- Added an optional mod to enable NVTF's improvements with AMD X3D Cards
+- Added JIP Localized Damage Fix > https://www.nexusmods.com/newvegas/mods/76330
+- Added GRA Unique Weapons Relocated > https://www.nexusmods.com/newvegas/mods/68153
+- Added Stewie Sweet Config > https://www.nexusmods.com/newvegas/mods/90281
+- Added Uncut Wasteland Navmeshed > https://www.nexusmods.com/newvegas/mods/90736
+- Re-added Enhanced Movement, as it was unrelated to the crash > https://www.nexusmods.com/newvegas/mods/85459
+- Removed Lumen LLL as its' effect was too taxing with NVR for too little overall impact.
+- Removed DN Sandstorms as its' implementation made it incompatible with the NVR preset.
+- Removed Simple Total Fog Remover as it is functionally unnecessary with NVR.
+
+Mojave Mo' Problems 0.7 Changelog - 25/01/2025
+
+NOT Save Save.
+
+- Tweaked the action point calculation so that agility now plays a large impact on AP. 65 Base > 50 Base, 3 Per Agility > 5 Per Agility.
+- Reverted Sweet6's Base perk changes to the Hunter, Entomologist, and Living Anatomy perks so they no longer influence the amount of loot that drops from their respective NPCs. Animals shall now drop more frequent loot.
+- Fixed the text of the Hoarder Trait so that it correctly displays the required strength at 75 Lbs.
+- Disabled Lone Star's Expired and Homemade Stimpaks from spawning, as their function does not align with the rest of consumables.
+- Fixed an issue where Sandstorms could not organically spawn.
+- Lowered the multiplier for catching diseases from 0.85 to 0.6
+- Fixed the Risky Business and Rocket Guy/Girl perks so that they are no longer mistakenly tagged as traits.
+- Fixed several weapons' iron sights to be properly aligned.
+- Made Handbottled Water's water items share their effects with the base items.
+- Regenerated LODs
+- Removed Satisfying Weapon Sounds and New Fallout New Vegas Weapon Sound Effects as the sounds were very inconsistent and out of date.
+- Removed Enhanced Movement due to a consistent softlock/crash it can cause. Enabled JAM's sprint instead.
+- Removed Clean FNV Animations and Anniversary Anim Pack, as well as a few other anim mods, in favor of both NVAO mods.
+- Added Simple Total Fog Remover to the NVR Section > https://www.nexusmods.com/newvegas/mods/77735
+- Added Bullet Drop > https://www.nexusmods.com/newvegas/mods/81550
+- Added Simple AI No Guard Rails > https://www.nexusmods.com/newvegas/mods/86691
+- Added B42 Quickthrow > https://www.nexusmods.com/newvegas/mods/66686
+- Added B42 True Leaning > https://www.nexusmods.com/newvegas/mods/81872
+- Added Sneak Vignette > https://www.nexusmods.com/newvegas/mods/84802
+- Added All Explosions Sounds Overhaul > https://www.nexusmods.com/newvegas/mods/66946@
+- Added New Vegas Animation Overhaul - Melee > https://www.nexusmods.com/newvegas/mods/88830
+- Added Flashbang Tutorial Remover > https://www.nexusmods.com/newvegas/mods/87162
+- Added Door Pinch Fix > https://www.nexusmods.com/newvegas/mods/90018
+- Added most of Balebandr0's Physically Based series > https://www.nexusmods.com/newvegas/mods/85122
+
 Update 0.6.0 - 24/01/2025
 Mojave Mo' Problems 0.6 Changelog
 
