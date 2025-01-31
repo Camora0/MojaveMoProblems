@@ -121,7 +121,7 @@ Due to how MO2's file virtualization works, sometimes Windows Defender will bloc
 *There are a few mods / tools that need to be manually placed alongside the game files, such as the 4gb patcher. These are not automatically placed / set up due to the nature of MO2 and what these tools do.*
 
 **Root Mods**
-1. in `...\Fallout NV MMP`, copy everything inside the `Manual install` folder into the `Game Root` folder.
+1. in `...\Fallout NV MMP`, copy everything inside the `_Files Requiring Manual Install` folder into the `Game Root` folder. (steam install's game root)
 2. Run "**FNVpatch.exe**". A command prompt window will open, saying `FalloutNV.exe patched!`.
 3. Close the command window.
 
