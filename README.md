@@ -20,7 +20,7 @@ The following goes over all steps of the installation process as of MMP Public R
 Windows file structure\
 Mod Organizer 2\
 Manual changes to files such as archives and text documents\
-PC file-structuring vernacular\
+PC file-structuring vernacular
 
 
 if you lack any of these, we highly recommend [This short, easy to read almanac.](https://www.dummies.com/book/technology/computers/pcs/pcs-for-dummies-13th-edition-281811/)
