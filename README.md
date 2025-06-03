@@ -1,4 +1,4 @@
-![alt text](https://github.com/Camora0/MojaveMoProblems/blob/main/imagetemp.png)
+![alt text](https://github.com/Camora0/MojaveMoProblems/blob/main/logobackgroundfinal.png)
 
 # Mojave Mo' Problems - A Fallout: New Vegas Survival Overhaul
 
