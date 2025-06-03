@@ -127,8 +127,10 @@ Due to how MO2's file virtualization works, sometimes Windows Defender will bloc
 
 **BSA Decompressor**
 1. In `...\Fallout NV MMP`, run "**FNV BSA Decompressor.exe**" from the "**BSA Decompressor**" folder
-2. Click "**Decompress**".
-3. Wait for program to finish, then close.\
+2. Next, Navigate to '...\Fallout NV MMP\Mods' Folder, and create a folder named "[No Delete] Uncompressed BSAs"
+3. Set this folder as the path for where **Decompressed BSA Files** will be installed.
+4. Click "**Decompress**".
+5. Wait for program to finish, then close.\
    *Note: In the off chance the FoNV and Decompressed Archives paths aren't automatically filled, close and re-launch "**...Decompressor.exe**"
 
 **Mod Organizer 2 Setup**
