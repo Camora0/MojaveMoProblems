@@ -22,9 +22,6 @@ Mod Organizer 2\
 Manual changes to files such as archives and text documents\
 PC file-structuring vernacular
 
-
-if you lack any of these, we highly recommend [This short, easy to read almanac.](https://www.dummies.com/book/technology/computers/pcs/pcs-for-dummies-13th-edition-281811/)
-
 ## Requirements & Prerequisites
 
 ### Requirements, Hardware
@@ -127,7 +124,7 @@ Due to how MO2's file virtualization works, sometimes Windows Defender will bloc
 
 **BSA Decompressor**
 1. In `...\Fallout NV MMP`, run "**FNV BSA Decompressor.exe**" from the "**BSA Decompressor**" folder
-2. Next, Navigate to '...\Fallout NV MMP\Mods' Folder, and create a folder named "[No Delete] Uncompressed BSAs"
+2. Next, Navigate to `...\Fallout NV MMP\Mods` Folder, and create a folder named "[No Delete] Uncompressed BSAs"
 3. Set this folder as the path for where **Decompressed BSA Files** will be installed.
 4. Click "**Decompress**".
 5. Wait for program to finish, then close.\
