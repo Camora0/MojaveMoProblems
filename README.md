@@ -21,7 +21,7 @@ Windows file structure\
 Mod Organizer 2\
 Manual changes to files such as archives and text documents\
 PC file-structuring vernacular\
-Critical thinking and problem solving skills\
+
 
 if you lack any of these, we highly recommend [This short, easy to read almanac.](https://www.dummies.com/book/technology/computers/pcs/pcs-for-dummies-13th-edition-281811/)
 
@@ -36,7 +36,7 @@ if you lack any of these, we highly recommend [This short, easy to read almanac.
 
 ### Requirements, Software
 
-- a ***LEGAL*** Copy of Fallout: New Vegas GOTY (Base Game + all DLC) from Steam, GOG, or EGS.
+- a ***LEGAL*** Copy of Fallout: New Vegas GOTY (Base Game + all DLC) from Steam.
 - Fully updated, Public Release version of Win 10 (or higher), 64 bit
 - The latest drivers for your GPU ([NVIDIA](https://www.nvidia.com/en-us/drivers/) / [AMD](https://www.amd.com/en/support/download/drivers.html))
 - An archiving program such as [7z](https://7-zip.org/download.html) or [NanaZip](https://github.com/M2Team/NanaZip)\
