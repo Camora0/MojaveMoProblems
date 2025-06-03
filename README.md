@@ -141,7 +141,7 @@ Due to how MO2's file virtualization works, sometimes Windows Defender will bloc
 
 ### Tweaking
 
-While Mojave Mo' Problems is, naturally, intended to be a stable experience, hardware is different and the Gamebryo engine is just absolutely awful. We can't guarantee you'll be locked to 60fps for 100% of your playthrough, so we recommend looking at the [<ins>Fallout: New Vegas Performance Guide<ins/>](https://performance.moddinglinked.com/falloutnv.html).
+While Mojave Mo' Problems is, naturally, intended to be a stable experience, hardware is different and the Gamebryo engine shows its' age. We can't guarantee you'll be locked to 60fps for 100% of your playthrough, so we recommend looking at the [<ins>Fallout: New Vegas Performance Guide<ins/>](https://performance.moddinglinked.com/falloutnv.html).
 
 ***After all the above steps have been completed, you may select "New Vegas" in MO2's dropdown menu, and click "Run" to launch the game. This is how you will be launching Mojave Mo' Problems. You may also create a shortcut (under the "Run" button) to bypass MO2.***
 
